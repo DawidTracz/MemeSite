@@ -1,25 +1,39 @@
 .img-p{
 padding-top: 50px;
-	padding-bottom: 50px;
+padding-bottom: 50px;
 background-color: red;
 }
 
-
 h1{
 	margin-bottom:  30px;
+	font-size: 100px;
+	font-weight: 700;
 }
-
 
 .rates{
 position: relative;
 position: absolute;
-top: 100px;
+top: 50px;
 right: 20px;
 }
 
 
 .glyphicon-star{
-
 	color: gold;
+	font-size: 60px;
+}
+
+.text-left{
+
 	font-size: 20px;
+}
+
+.title{
+
+	font-weight: 700;
+	font-size: 50px;
+}
+
+.jpgtitle{
+	background-color: blue;
 }
